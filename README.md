@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @saurabhalp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Saurabh 👋
 
-<!---
-saurabhalp/saurabhalp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a 3rd-year student at NIT Patna with a passion for Android development. I enjoy building mobile applications that improve user experiences and exploring new technologies in the field of software development.
+
+## Skills
+- **Languages**: Java, Kotlin, Python, JavaScript
+- **Frameworks**: Android SDK, React, Node.js
+- **Tools**: Android Studio, Git, Docker
+
+## GitHub Stats
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhalp&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhalp&layout=compact&theme=radical)
+
+## Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=saurabhalp&theme=onedark)
+
+## Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=saurabhalp&theme=radical)
+
+## Contact
+- Email: saurabhsinghalp@gmail.com
+- LinkedIn: [Saurabh](https://www.linkedin.com/in/saurabhalp)
