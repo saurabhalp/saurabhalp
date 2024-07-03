@@ -20,6 +20,9 @@ I'm a 3rd-year student at NIT Patna with a passion for Android development. I en
 ## Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=saurabhalp&theme=radical)
 
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=saurabhalp&color=brightgreen)
+
 ## Contact
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhalp)
 - [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabhsinghalp@gmail.com)
