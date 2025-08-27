@@ -1,7 +1,7 @@
 # Hi there, I'm Saurabh 👋
 
 ## About Me
-I'm a 3rd-year student at NIT Patna with a passion for Android development. I enjoy building mobile applications that improve user experiences and exploring new technologies in the field of software development.
+I'm a final-year student at NIT Patna with a passion for Android development. I enjoy building mobile applications that improve user experiences and exploring new technologies in the field of software development.
 
 ## Skills
 - **Languages**: Java, Kotlin, Python, JavaScript
